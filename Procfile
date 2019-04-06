@@ -1,1 +1,1 @@
-web: gunicorn pub.wsgi
+web: gunicorn pubs.wsgi
